@@ -1,0 +1,192 @@
+[
+    {
+        "id": "1",
+        "DateTime": "23/08/2023",
+        "ProductID": "121",
+        "ProductName": "Polo Shirt",
+        "StoreName": "Citadel",
+        "SellingPrice": "200",
+        "ItemSold": "200",
+        "Status": "Pending"
+    },
+    {
+        "id": "2",
+        "DateTime": "23/08/2023",
+        "ProductID": "122",
+        "ProductName": "T-Shirt",
+        "StoreName": "Citadel",
+        "SellingPrice": "400",
+        "ItemSold": "100",
+        "Status": "Pending"
+    },
+	{
+        "id": "3",
+        "DateTime": "23/08/2023",
+        "ProductID": "123",
+        "ProductName": "Black Levis T-Shirt",
+        "StoreName": "Citadel",
+        "SellingPrice": "250",
+        "ItemSold": "120",
+        "Status": "Pending"
+    },
+    {
+        "id": "4",
+        "DateTime": "23/08/2023",
+        "ProductID": "124",
+        "ProductName": "Sweatshirt",
+        "StoreName": "Citadel",
+        "SellingPrice": "1050",
+        "ItemSold": "50",
+        "Status": "Pending"
+    },
+    {
+        "id": "5",
+        "DateTime": "23/08/2023",
+        "ProductID": "10",
+        "ProductName": "Dress",
+        "StoreName": "Jennyfer",
+        "SellingPrice": "500",
+        "ItemSold": "130",
+        "Status": "Pending"
+    },
+    {
+        "id": "6",
+        "DateTime": "23/08/2023",
+        "ProductID": "20",
+        "ProductName": "Denim Jean",
+        "StoreName": "Jennyfer",
+        "SellingPrice": "700",
+        "ItemSold": "102",
+        "Status": "Pending"
+    },
+    {
+        "id": "7",
+        "DateTime": "23/08/2023",
+        "ProductID": "30",
+        "ProductName": "Top",
+        "StoreName": "Jennyfer",
+        "SellingPrice": "450",
+        "ItemSold": "100",
+        "Status": "Pending"
+    },
+    {
+        "id": "8",
+        "DateTime": "23/08/2023",
+        "ProductID": "40",
+        "ProductName": "Classic Top",
+        "StoreName": "Jennyfer",
+        "SellingPrice": "350",
+        "ItemSold": "170",
+        "Status": "Pending"
+    },
+    {
+        "id": "9",
+        "DateTime": "23/08/2023",
+        "ProductID": "11",
+        "ProductName": "Dress",
+        "StoreName": "Morgan",
+        "SellingPrice": "500",
+        "ItemSold": "25",
+        "Status": "Pending"
+    },
+    {
+        "id": "10",
+        "DateTime": "23/08/2023",
+        "ProductID": "22",
+        "ProductName": "Denim Jean",
+        "StoreName": "Morgan",
+        "SellingPrice": "700",
+        "ItemSold": "110",
+        "Status": "Pending"
+    },
+    {
+        "id": "11",
+        "DateTime": "23/08/2023",
+        "ProductID": "33",
+        "ProductName": "Top",
+        "StoreName": "Morgan",
+        "SellingPrice": "450",
+        "ItemSold": "70",
+        "Status": "Pending"
+    },
+    {
+        "id": "12",
+        "DateTime": "23/08/2023",
+        "ProductID": "44",
+        "ProductName": "Classic Top",
+        "StoreName": "Morgan",
+        "SellingPrice": "550",
+        "ItemSold": "250",
+        "Status": "Pending"
+    },
+    {
+        "id": "13",
+        "DateTime": "23/08/2023",
+        "ProductID": "110",
+        "ProductName": "Dress",
+        "StoreName": "Oneye",
+        "SellingPrice": "350",
+        "ItemSold": "20",
+        "Status": "Pending"
+    },
+    {
+        "id": "14",
+        "DateTime": "23/08/2023",
+        "ProductID": "120",
+        "ProductName": "Denim Jean",
+        "StoreName": "Oneye",
+        "SellingPrice": "500",
+        "ItemSold": "100",
+        "Status": "Pending"
+    },
+    {
+        "id": "15",
+        "DateTime": "23/08/2023",
+        "ProductID": "130",
+        "ProductName": "Top",
+        "StoreName": "Oneye",
+        "SellingPrice": "475",
+        "ItemSold": "205",
+        "Status": "Pending"
+    },
+    {
+        "id": "16",
+        "DateTime": "23/08/2023",
+        "ProductID": "140",
+        "ProductName": "Classic Top",
+        "StoreName": "Oneye",
+        "SellingPrice": "600",
+        "ItemSold": "310",
+        "Status": "Pending"
+    },
+    {
+        "id": "17",
+        "DateTime": "23/08/2023",
+        "ProductID": "100",
+        "ProductName": "Shirt",
+        "StoreName": "Mango",
+        "SellingPrice": "325",
+        "ItemSold": "80",
+        "Status": "Pending"
+    },
+    {
+        "id": "18",
+        "DateTime": "23/08/2023",
+        "ProductID": "101",
+        "ProductName": "Pants",
+        "StoreName": "Mango",
+        "SellingPrice": "800",
+        "ItemSold": "100",
+        "Status": "Pending"
+    },
+    {
+        "id": "19",
+        "DateTime": "23/08/2023",
+        "ProductID": "102",
+        "ProductName": "Formal Top",
+        "StoreName": "Mango",
+        "SellingPrice": "300",
+        "ItemSold": "50",
+        "Status": "Pending"
+    }
+]

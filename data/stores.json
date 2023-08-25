@@ -1,0 +1,204 @@
+[
+    {
+        "id": "1",
+        "name": "Citadel",
+        "description": "Citadel established since 2020",
+        "phoneNumber": "+230 5732 5418",
+        "staffIds": ["1"],
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6qnGXHzf5jFsHvsFllaIoVA4Ae5H8SNzpsDxTGZ8FauFezgph8JsEuSZdZujUagsDuxY&usqp=CAU",
+        "menuProducts": [
+            {
+                "id": "121",
+                "name": "Polo Shirt",
+                "description": "Classic short sleeve polo shirt",
+                "price": 200,
+                "category": "main",
+                "picture": "https://www.trutex.com/media/catalog/product/cache/19b8a4a0658455db51b5bb4e1241dbea/k/e/kes-mar_1-V1.jpg"
+            },
+            {
+                "id": "122",
+                "name": "T-Shirt",
+                "description": "Basic red shirt",
+                "price": 400,
+                "category": "main",
+                "picture": "https://thumbs.dreamstime.com/b/t-shirt-1916005.jpg"
+            },
+            {
+                "id": "123",
+                "name": "Black Levis T-Shirt",
+                "description": "Cotton Casual Shirt",
+                "price": 250,
+                "category": "main",
+                "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wYsf-aU5ZqCsx3brqaElNJ_djtz1WRxd0rOX8QhXTbELieBYv0BwowdwGDBevt-RIlo&usqp=CAU"
+            },
+            {
+                "id": "124",
+                "name": "Sweatshirt",
+                "description": "Dark green sweatshirt ",
+                "price": 1050,
+                "category": "main",
+                "picture": "https://assets.woolworthsstatic.co.za/Slim-Fit-Slub-T-shirt-TEAL-506330108.jpg?V=L1lq&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTAyLTEwLzUwNjMzMDEwOF9URUFMX2hlcm8uanBnIn0&w=450&q=75"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Jennyfer",
+        "description": "Jennyfer french brand located at Bagatelle",
+        "phoneNumber": "+230 670 4747",
+        "staffIds": ["3", "4"],
+        "logo": "https://ascenciamalls.com/media/0qcnv4nx/59936751_2216569771713307_3698496342604120064_n.png?anchor=center&mode=crop&width=338&height=330&rnd=133210404530800000",
+        "menuProducts": [
+            {
+                "id": "10",
+                "name": "Dress",
+                "description": "Kate Kasin Women's Sleeveless Floral Dress",
+                "price": 500,
+                "category": "main",
+                "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdKn6S5TQptPAq365-_aElpLfHptNb4j0TgvKsnC2oMBggisGPRUlEhPLuNLaoXLwI4UA&usqp=CAU"
+            },
+            {
+                "id": "20",
+                "name": "Denim Jean",
+                "description": "High waist jeans",
+                "price": 700,
+                "category": "main",
+                "picture": "https://assets.vogue.com/photos/61490371ea2e1a842c17c824/3:4/w_1280%2Cc_limit/slide_185.jpg"
+            },
+            {
+                "id": "30",
+                "name": "Top",
+                "description": "Formal office tops",
+                "price": 450,
+                "category": "main",
+                "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxlVJOmCuDeyY-v-RotZ2FwTZIGIJNJ-2B-w&usqp=CAU"
+            },
+            {
+                "id": "40",
+                "name": "Classic Top",
+                "description": "Office formal outfit",
+                "price": 350,
+                "category": "main",
+                "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStXo0utZ8UdcZiW6ER-xpxfoQAif91AS4gYQ&usqp=CAU"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Morgan",
+        "description": "Morgan De Toi brand located at La croisette",
+        "phoneNumber": "+230 670 4747",
+        "staffIds": ["2"],
+        "logo": "https://manager.shoppingpromenade-coeuralsace.fr/storage/uploads/6b6146be62c8e8c6b7846042a16a26ec.png",
+        "menuProducts": [
+            {
+                "id": "11",
+                "name": "Dress",
+                "description": "Kate Kasin Women's Sleeveless Floral Dress",
+                "price": 500,
+                "category": "main",
+                "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdKn6S5TQptPAq365-_aElpLfHptNb4j0TgvKsnC2oMBggisGPRUlEhPLuNLaoXLwI4UA&usqp=CAU"
+            },
+            {
+                "id": "22",
+                "name": "Denim Jean",
+                "description": "High waist jeans",
+                "price": 700,
+                "category": "main",
+                "picture": "https://assets.vogue.com/photos/61490371ea2e1a842c17c824/3:4/w_1280%2Cc_limit/slide_185.jpg"
+            },
+            {
+                "id": "33",
+                "name": "Top",
+                "description": "Formal office tops",
+                "price": 450,
+                "category": "main",
+                "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxlVJOmCuDeyY-v-RotZ2FwTZIGIJNJ-2B-w&usqp=CAU"
+            },
+            {
+                "id": "44",
+                "name": "Classic Top",
+                "description": "Office formal outfit",
+                "price": 550,
+                "category": "main",
+                "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStXo0utZ8UdcZiW6ER-xpxfoQAif91AS4gYQ&usqp=CAU"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Oneye",
+        "description": "Oneye brand located at La croisette and establish since 1990s",
+        "phoneNumber": "+230 670 4747",
+        "staffIds": ["5"],
+        "logo": "https://cdn.shopify.com/s/files/1/0270/8796/2167/files/LOGO_REV-01.png?height=628&pad_color=ffffff&v=1613549102&width=1200",
+        "menuProducts": [
+            {
+                "id": "110",
+                "name": "Dress",
+                "description": "Kate Kasin Women's Sleeveless Floral Dress",
+                "price": 350,
+                "category": "main",
+                "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdKn6S5TQptPAq365-_aElpLfHptNb4j0TgvKsnC2oMBggisGPRUlEhPLuNLaoXLwI4UA&usqp=CAU"
+            },
+            {
+                "id": "120",
+                "name": "Denim Jean",
+                "description": "High waist jeans",
+                "price": 500,
+                "category": "main",
+                "picture": "https://assets.vogue.com/photos/61490371ea2e1a842c17c824/3:4/w_1280%2Cc_limit/slide_185.jpg"
+            },
+            {
+                "id": "130",
+                "name": "Top",
+                "description": "Formal office tops",
+                "price": 475,
+                "category": "main",
+                "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxlVJOmCuDeyY-v-RotZ2FwTZIGIJNJ-2B-w&usqp=CAU"
+            },
+            {
+                "id": "140",
+                "name": "Classic Top",
+                "description": "Office formal outfit",
+                "price": 600,
+                "category": "main",
+                "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStXo0utZ8UdcZiW6ER-xpxfoQAif91AS4gYQ&usqp=CAU"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Mango",
+        "description": "Retail store own by Jean Lauren",
+        "phoneNumber": "+230 670 2323",
+        "staffIds": ["5"],
+        "logo": "https://sandtoncity.com/uploads/mango.jpg",
+        "menuProducts": [
+            {
+                "id": "100",
+                "name": "Shirt",
+                "description": "Formal Shirts for Women",
+                "price": 325,
+                "category": "main",
+                "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-B0mU0MFSmUgPGjYaI83yrsZtL1Z7LzZ6bA&usqp=CAU"
+            },
+            {
+                "id": "101",
+                "name": "Pants",
+                "description": "Women fitted pants",
+                "price": 800,
+                "category": "main",
+                "picture": "https://www.aarong.com/media/catalog/product/0/4/0410000097251.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400"
+            },
+            {
+                "id": "102",
+                "name": "Formal Top",
+                "description": "Office wear",
+                "price": 300,
+                "category": "main",
+                "picture": "https://i.pinimg.com/originals/7a/f8/53/7af8536572f26769b96cd0d4c3b4f6c9.jpg"
+            }
+        ]
+    }
+]
